@@ -13,6 +13,8 @@ public class Initial_Sharing
     public Initial_Sharing()
     {
         System.out.println("Test");
+        //Kommi1
+        
     }
 
     // Dienste
